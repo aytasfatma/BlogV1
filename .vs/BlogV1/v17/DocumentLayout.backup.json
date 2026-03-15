@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|c:\\users\\fatma\\onedrive\\desktop\\projects\\blogv1\\blogv1\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|solutionrelative:blogv1\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|c:\\users\\fatma\\onedrive\\desktop\\projects\\blogv1\\blogv1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|solutionrelative:blogv1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|c:\\users\\fatma\\onedrive\\desktop\\projects\\blogv1\\blogv1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|solutionrelative:blogv1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|c:\\users\\fatma\\onedrive\\desktop\\projects\\blogv1\\blogv1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|solutionrelative:blogv1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|c:\\users\\fatma\\onedrive\\desktop\\projects\\blogv1\\blogv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|solutionrelative:blogv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "BlogV1\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\wwwroot\\css\\style.css*",
+              "RelativeToolTip": "BlogV1\\wwwroot\\css\\style.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-15T19:42:02.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogV1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BlogV1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-15T18:50:56.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogV1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "BlogV1\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-15T18:50:10.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BlogV1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BlogV1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:38:51.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Program.cs",
+              "RelativeDocumentMoniker": "BlogV1\\Program.cs",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Program.cs",
+              "RelativeToolTip": "BlogV1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:38:28.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
