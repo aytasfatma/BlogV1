@@ -1,0 +1,16 @@
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\fatma\projects\BlogV1\wwwroot\lib\jquery\LICENSE.txt

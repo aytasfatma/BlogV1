@@ -64,7 +64,7 @@ p.spec {
 	padding:14px 22px;
 	text-align:left;
 	border-top:1px solid #dfdede;
-	background:url(images/spec_bg.gif) repeat-x center top;
+	background:url(/images/spec_bg.gif) repeat-x center top;
 }
 a {
 	color:#5db166;
@@ -340,7 +340,7 @@ ol li .send {
 	margin:6px 0;
 	padding:0;
 	float:left;
-	background:#fff url(images/search.gif) no-repeat top left;
+	background:#fff url(/images/search.gif) no-repeat top left;
 }
 #formsearch input.editbox_search {
 	margin:0;

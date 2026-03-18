@@ -1,105 +1,139 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\",
+  "WorkspaceRootPath": "C:\\Users\\fatma\\projects\\BlogV1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|c:\\users\\fatma\\onedrive\\desktop\\projects\\blogv1\\blogv1\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|solutionrelative:blogv1\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{4823DE4E-C8C8-0310-6A40-315B0781FE18}|BlogV1.csproj|c:\\users\\fatma\\projects\\blogv1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4823DE4E-C8C8-0310-6A40-315B0781FE18}|BlogV1.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|c:\\users\\fatma\\onedrive\\desktop\\projects\\blogv1\\blogv1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|solutionrelative:blogv1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4823DE4E-C8C8-0310-6A40-315B0781FE18}|BlogV1.csproj|c:\\users\\fatma\\projects\\blogv1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4823DE4E-C8C8-0310-6A40-315B0781FE18}|BlogV1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|c:\\users\\fatma\\onedrive\\desktop\\projects\\blogv1\\blogv1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|solutionrelative:blogv1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4823DE4E-C8C8-0310-6A40-315B0781FE18}|BlogV1.csproj|c:\\users\\fatma\\projects\\blogv1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4823DE4E-C8C8-0310-6A40-315B0781FE18}|BlogV1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|c:\\users\\fatma\\onedrive\\desktop\\projects\\blogv1\\blogv1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|solutionrelative:blogv1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4823DE4E-C8C8-0310-6A40-315B0781FE18}|BlogV1.csproj|c:\\users\\fatma\\projects\\blogv1\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4823DE4E-C8C8-0310-6A40-315B0781FE18}|BlogV1.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|c:\\users\\fatma\\onedrive\\desktop\\projects\\blogv1\\blogv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BBD98BC-8D96-406D-9910-4C24D79EB198}|BlogV1\\BlogV1.csproj|solutionrelative:blogv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4823DE4E-C8C8-0310-6A40-315B0781FE18}|BlogV1.csproj|c:\\users\\fatma\\projects\\blogv1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4823DE4E-C8C8-0310-6A40-315B0781FE18}|BlogV1.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4823DE4E-C8C8-0310-6A40-315B0781FE18}|BlogV1.csproj|c:\\users\\fatma\\projects\\blogv1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4823DE4E-C8C8-0310-6A40-315B0781FE18}|BlogV1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 173,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "BlogV1\\wwwroot\\css\\style.css",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "BlogV1\\wwwroot\\css\\style.css",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwAYAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\fatma\\projects\\BlogV1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\fatma\\projects\\BlogV1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-15T19:42:02.944Z",
+              "WhenOpened": "2026-03-18T13:37:42.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BlogV1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BlogV1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fatma\\projects\\BlogV1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fatma\\projects\\BlogV1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T18:50:56.332Z",
+              "WhenOpened": "2026-03-18T13:03:36.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\fatma\\projects\\BlogV1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\fatma\\projects\\BlogV1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-18T13:03:24.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\fatma\\projects\\BlogV1\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\fatma\\projects\\BlogV1\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAGgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-18T13:03:13.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BlogV1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BlogV1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF0AAAB3AAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fatma\\projects\\BlogV1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fatma\\projects\\BlogV1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T18:50:10.146Z",
+              "WhenOpened": "2026-03-15T22:34:45.908Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedHeight": 227,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "BlogV1\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "BlogV1\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T18:38:51.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Program.cs",
-              "RelativeDocumentMoniker": "BlogV1\\Program.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Desktop\\projects\\BlogV1\\BlogV1\\Program.cs",
-              "RelativeToolTip": "BlogV1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T18:38:28.297Z",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\fatma\\projects\\BlogV1\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\fatma\\projects\\BlogV1\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-18T14:21:16.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
